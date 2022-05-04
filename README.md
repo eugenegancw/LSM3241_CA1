@@ -1,2 +1,3 @@
 # LSM3241_CA1
 AY 21/22 Sem 2
+Repository for LSM3241 CA1
